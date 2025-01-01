@@ -1,0 +1,16 @@
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore all HTML files
+**/*.html
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore environment files
+.env
+.env.*
